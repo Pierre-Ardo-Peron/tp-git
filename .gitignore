@@ -1,5 +1,10 @@
+#Pas de fichier en .o
 *.o
+#Pas de fichier en .exe
 *.exe
+#Pas de fichier en .log
 *.log
+#Ignore modules
 /modules/
+# Plateforme de programmation
 /.vscode/
