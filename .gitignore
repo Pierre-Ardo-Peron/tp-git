@@ -4,7 +4,7 @@
 *.exe
 #Pas de fichier en .log
 *.log
-#Ignore modules
+#Ignore documents modules
 /modules/
-# Plateforme de programmation
+# Ignore documents .vscode
 /.vscode/
